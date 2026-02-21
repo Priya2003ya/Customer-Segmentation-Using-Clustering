@@ -48,6 +48,4 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 
 
-## 👩‍💻 Author
-**Priya Prajapati**
 
